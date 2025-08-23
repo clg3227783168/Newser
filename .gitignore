@@ -1,0 +1,9 @@
+
+# Python virtual environment
+.venv/
+
+# Raw data directory
+data/
+
+# Processed data files
+*.csv
