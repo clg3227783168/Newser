@@ -2,8 +2,7 @@
 # Python virtual environment
 .venv/
 
-# Raw data directory
-data/
-
-# Processed data files
-*.csv
+# Raw some directories
+ data/
+ format_data/
+ json/

@@ -1,0 +1,1 @@
+tar -cJvf xx.tar.xz xx
